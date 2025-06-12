@@ -1,1 +1,3 @@
 # Electrical_Documentation
+電装関連資料など
+こちらのリポジトリにJLCPCBのブログも配置させてください
