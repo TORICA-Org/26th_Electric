@@ -24,6 +24,8 @@
 
 ## 回路設計とレイアウトの工夫
 <img src="images/IMG_1626.jpg" height="300px">
+<img src="images/IMG_1659.jpeg" height="300px">
+<img src="images/IMG_1660.jpeg" height="300px">
 
 今回の基板は、できるだけ無駄を省き、機体にそのまま搭載可能なサイズ・構成を意識して設計しました。具体的な特徴は以下の通りです。
 
