@@ -5,4 +5,4 @@
 ## GitHub Pages利用上の注意
 - 基本的にMarkdown形式で記述可能
 - 表はHTML形式のみ
-  - <td>や<tr>タグを使用
+  - `<td>`や`<tr>`タグを使用
