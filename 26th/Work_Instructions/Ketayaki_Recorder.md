@@ -46,7 +46,7 @@ TFT液晶のピン配置も示しておく。
 
 - サーミスタは[モノラルミニプラグ](https://akizukidenshi.com/catalog/g/g112523/)及び[モノラルミニジャック](https://akizukidenshi.com/catalog/g/g112524/)で接続する。  
 <img width="300px" src="https://akizukidenshi.com/img/goods/3/112523.jpg">
-<img width="300px" src="https://akizukidenshi.com/img/goods/2/112524.jpg">
+<img width="300px" src="https://akizukidenshi.com/img/goods/L/109060.jpg">
 
 - 他励式ブザーは基板上に実装する。
 
@@ -55,4 +55,6 @@ TFT液晶のピン配置も示しておく。
   - **TFT液晶のピン配置を反転**させる必要があるため要注意。(TFT液晶の裏面にあるシルクスクリーン【下図】を参考に設計するのが良い)  
   ![](https://abacasstorageaccnt.blob.core.windows.net/cirkit/1d8ef4dc-d8a3-425d-96df-f8d4e71a26b5.jpg)
   - TFT液晶側にあるネジで固定し、基板はネジ止めしない。
-  - TFT液晶のピンヘッダの間にPicoをSDカードスロット寄りに配置する。(既製品Picoを表面実装するかも)
+  - TFT液晶のピンヘッダの間にPicoをSDカードスロット寄りに配置する。(既製品Picoは表面実装するかも)
+
+- 桁焼き記録装置は2つ製作する。
