@@ -29,9 +29,9 @@ A/D変換基盤との接続は以下のようにする。
 
 ![](https://shop.wtihk.com/image/cache/catalog/breakoutboards/HX711/HX711_des-500x500.jpg)
 
-3.5mmステレオミニプラグ／ジャックを用いて、ラダーを接続する。　　
+3.5mmステレオミニプラグ／ジャックを用いて、ラダーを接続する。  
 <img width="300px" src="https://akizukidenshi.com/img/goods/2/105749.jpg">
-<img width="300px" src="https://akizukidenshi.com/img/goods/L/109060.jpg">
+<img width="300px" src="https://akizukidenshi.com/img/goods/L/109060.jpg">  
 それに伴って、XT↔ステレオミニプラグ変換基板も製作する。
 
 ### 24bitA/D変換基板の設計
