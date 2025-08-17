@@ -18,11 +18,13 @@
 |[電池ボックス 単4×3本](https://akizukidenshi.com/catalog/g/g103196/)|1||
 |単4電池|3|部室のエアコンと共通|
 |[高感度高耐熱サーミスター](https://akizukidenshi.com/catalog/g/g111896/)|1|B定数：4126|
+|[3.5mmモノラルミニプラグ](https://akizukidenshi.com/catalog/g/g112523/)|1|プラグのみ|
+|[3.5mmステレオミニジャック](https://akizukidenshi.com/catalog/g/g109060/)|1|基板取付用 モノラルである必要はない|
 |[3Pトグルスイッチ レバーロック式](https://akizukidenshi.com/catalog/g/g112710/)|1|これまでもメイン電装で使用|
 |[他励式ブザー](https://akizukidenshi.com/catalog/g/g104118/)|1|圧電スピーカー(圧電サウンダー)|
 |SDカード|任意|32GB以下が好ましい|
-|PCB基板|1||
-|3Dプリンタ製の筐体|1||
+|PCB基板|1|27代が作る|
+|3Dプリンタ製の筐体|1|27代が作る|
 
 ### Kikadによる回路設計
 以下にソフトウェアのピン定義マクロを示す。これに従って回路図を作成すること。  
