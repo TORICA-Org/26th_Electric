@@ -10,9 +10,11 @@
 
 ### 使用部品
 - 類似品でも可
+
 |部品|個数|備考|
 |:--:|:--:|:--:|
 |Seeed XIAO RP2040|1|USB type-Cがあるため|
+|[HX711](https://akizukidenshi.com/catalog/g/g112473/)|6|ICのみ購入|
 |USB type-A メス|4|A/D変換基板接続用|
 
 ### 制御装置の基板設計
@@ -40,6 +42,15 @@ A/D変換基盤との接続は以下のようにする。
 <img width="300px" src="https://akizukidenshi.com/img/goods/2/105749.jpg">
 <img width="300px" src="https://akizukidenshi.com/img/goods/L/109060.jpg">  
 それに伴って、XT↔ステレオミニプラグ変換基板も製作する。
+
+
+### 使用部品
+- 類似品でも可
+
+|部品|個数|備考|
+|:--:|:--:|:--:|
+|[HX711](https://akizukidenshi.com/catalog/g/g112473/)|6|ICのみ購入|
+|USB type-A メス|4|制御基板接続用|
 
 ### 24bitA/D変換基板の設計
 HX711を表面実装する。
