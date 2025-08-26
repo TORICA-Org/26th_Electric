@@ -15,8 +15,8 @@
 |:--:|:--:|:--:|
 |[Raspberry Pi Pico](https://akizukidenshi.com/catalog/g/g116132/)|1||
 |[MSP2807(ILI9341)](https://akizukidenshi.com/catalog/g/g116265/)|1|SDカードスロットを内蔵|
-|[電池ボックス 単4×3本](https://akizukidenshi.com/catalog/g/g103196/)|1||
-|単4電池|3|部室のエアコンと共通|
+|[電池ボックス 単3×3本](https://akizukidenshi.com/catalog/g/g102667/)|1||
+|単3電池|3|翼班のあまりを使用|
 |[高感度高耐熱サーミスター](https://akizukidenshi.com/catalog/g/g111896/)|1|B定数：4126|
 |[3.5mmモノラルミニプラグ](https://akizukidenshi.com/catalog/g/g112523/)|1|プラグのみ|
 |[3.5mmステレオミニジャック](https://akizukidenshi.com/catalog/g/g109060/)|1|基板取付用 モノラルである必要はない|
@@ -58,12 +58,12 @@ Raspberry Pi Picoのピン配置も示しておく。ピン番号はGP〇〇と�
 TFT液晶のピン配置も示しておく。  
 <img src="https://tamanegi-digick.com/wp-content/uploads/2024/05/ili9341_pin.jpg">
 
-- 電源は単4電池3本の4.5Vとする。
+- 電源は単3電池3本の4.5Vとする。
   - 電池ボックスのリード線にXHコネクタを取り付けて基板と接続する。
   - この4.5Vは **VSYS** に対して供給する。(1.8V〜5.5Vの電源を使用する事ができる)
   - 3Dプリンタで造形した筐体側にマジックテープで固定する。
 
-- サーミスタは[モノラルミニプラグ](https://akizukidenshi.com/catalog/g/g112523/)及び[モノラルミニジャック](https://akizukidenshi.com/catalog/g/g112524/)で接続する。  
+- サーミスタは[モノラルミニプラグ](https://akizukidenshi.com/catalog/g/g112523/)及び[ステレオミニジャック](https://akizukidenshi.com/catalog/g/g109060/)で接続する。  
 <img width="300px" src="https://akizukidenshi.com/img/goods/3/112523.jpg">
 <img width="300px" src="https://akizukidenshi.com/img/goods/L/109060.jpg">
 
