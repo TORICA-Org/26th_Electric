@@ -1,3 +1,5 @@
+## [製作計画](/26th/製作計画/) [夏休み中の予定](/26th/夏休み中の計画/) [作業指示書](/26th/Work_Instructions/) [作業カレンダー](/26th/Calender/)
+
 # はじめに
 
 今年、電装班にはたくさんの27代が入ってくれました。  
@@ -23,8 +25,3 @@
 
 - 3DデータはFusionのハブ「TORICA_Electric」のフォルダ「TORICA26」で管理する。
   - [メンバーの編集(管理者専用)](https://gmail4344101.autodesk360.com/g/admin/manage/roles/people)
-
-- [製作計画](/製作計画/)
-- [夏休み中の予定](/夏休み中の計画/)
-  - [作業指示書](/Work_Instructions/)
-- [作業カレンダー](/Calender/)
