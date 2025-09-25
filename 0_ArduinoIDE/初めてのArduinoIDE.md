@@ -10,8 +10,10 @@
 
 ### インストール～初期設定～スケッチの書き込み
 ロジカラブログ様のものが非常にわかりやすいです．
-[ラズパイPico/Pico2/PicoWのArduinoIDE2のインストール方法や使い方紹介 | ロジカラブログ](https://logikara.blog/raspi-pico-arduinoide/)
-[ラズパイPICO互換ボード XIAO RP2040の使い方 | ロジカラブログ](https://logikara.blog/xiao-rp2040/)
+
+- [ラズパイPico/Pico2/PicoWのArduinoIDE2のインストール方法や使い方紹介 | ロジカラブログ](https://logikara.blog/raspi-pico-arduinoide/)
+- [ラズパイPICO互換ボード XIAO RP2040の使い方 | ロジカラブログ](https://logikara.blog/xiao-rp2040/)
+
 大事なところは，初期設定のままでは使えず，ボードマネージャをインストールしなければならないというところです．ボードマネージャのURLは以下にも示しておきます．
 ```
 https://github.com/earlephilhower/arduino-pico/releases/download/global/package_rp2040_index.json
