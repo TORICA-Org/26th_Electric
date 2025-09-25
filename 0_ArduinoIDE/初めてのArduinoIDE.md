@@ -10,14 +10,17 @@
 
 ### インストール～初期設定～スケッチの書き込み
 ロジカラブログ様のものが非常にわかりやすいです．
+
 - [ラズパイPico/Pico2/PicoWのArduinoIDE2のインストール方法や使い方紹介 | ロジカラブログ](https://logikara.blog/raspi-pico-arduinoide/)
 - [ラズパイPICO互換ボード XIAO RP2040の使い方 | ロジカラブログ](https://logikara.blog/xiao-rp2040/)
+
 大事なところは，初期設定のままでは使えず，ボードマネージャをインストールしなければならないというところです．ボードマネージャのURLは以下にも示しておきます．
 ```
 https://github.com/earlephilhower/arduino-pico/releases/download/global/package_rp2040_index.json
 ```
 
-この種類のマイコンは電装班で1番使うので，「実践編」で使い方を学びましょう！
-- [実践編](https://telling-march-c0b.notion.site/7874e2cedf9c4ff7b75fd1fb712b05d0)
+この種類のマイコンは電装班で1番使うので，「実践編！」で使い方を学びましょう！
+
+- [実践編！](https://telling-march-c0b.notion.site/7874e2cedf9c4ff7b75fd1fb712b05d0)
 
 ## ESP32系マイコン
