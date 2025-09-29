@@ -21,7 +21,6 @@
   - ["25th"を含むリポジトリ](https://github.com/orgs/TORICA-Org/repositories?q=25th)
   - ["26th"を含むリポジトリ](https://github.com/orgs/TORICA-Org/repositories?q=26th)
   - ["Sim"を含むリポジトリ](https://github.com/orgs/TORICA-Org/repositories?q=Sim)
-
 - 3DデータはFusionのハブ「TORICA_Electric」のフォルダ「TORICA26」で管理する。
   - [メンバーの編集(管理者専用)](https://gmail4344101.autodesk360.com/g/admin/manage/roles/people)
 
