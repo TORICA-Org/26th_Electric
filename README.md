@@ -16,6 +16,7 @@
 
 ## リポジトリ
 - 名称は基本的に「26th_Software_〇〇」または「26th_PCB_〇〇」とする
+- 公開設定は「Public」とする
 - [リポジトリ一覧](https://github.com/orgs/TORICA-Org/repositories)
   - ["TORICA"を含むリポジトリ](https://github.com/orgs/TORICA-Org/repositories?q=TORICA)
   - ["25th"を含むリポジトリ](https://github.com/orgs/TORICA-Org/repositories?q=25th)
